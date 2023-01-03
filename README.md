@@ -1,11 +1,14 @@
 # jajimasay
+
 make jajima say something
 
 ## Example
 
 ```sh
-> ./jajimasay hello
-< hello >
+> ./jajimasay hello, world
+ --------------
+< hello, world >
+ --------------
    \
      🐍
 ```
